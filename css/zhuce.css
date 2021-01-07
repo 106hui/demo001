@@ -1,0 +1,134 @@
+@charset "utf-8";
+.inner{
+    width: 1190px;
+    margin: 0 auto;
+}
+.header {
+    height: 108px;
+}
+.header>img {
+    margin-top: 35px;
+}
+.header>div {
+    width: 2px;
+    height: 50px;
+    background-color: #e8e8e8;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.header>span {
+    font-size: 22px;
+    color: #5e5e5e;
+    margin-top: 42px;
+    margin-left: 21px;
+}
+.center{
+    background-color: #f6f6f6;
+}
+.center .inner {
+    height: 553px;
+    /* background-color: #f6f6f6; */
+    overflow: hidden;
+}
+.center .inner>form {
+    width: 750px;
+    height: 476px;
+    background-color: white;
+    border-top: 3px solid #f36e11;
+    margin-top: 34px;
+    margin-left: 226px;
+}
+.center .inner>form>p {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 32px;
+}
+.center .inner>form>.youxiang {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    border: 1px solid #f36e11;
+    color: #f36e11;
+    margin: 34px 0 0 185px;
+}
+.center .inner>form>.youxiangkuang {
+    width: 334px;
+    height: 34px;
+    border: 1px solid #f36e11;
+    border-left: none;
+    margin-top: 34px;
+    padding-left: 7px;
+    color: #a0a0a0;
+    font-size: 12px;
+}
+.center .inner>form>i {
+    display: block;
+    font-size: 12px;
+    color: #f36e11;
+    margin: 4px 0 0 185px;
+}
+.center .inner>form>.mima {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    border: 1px solid #d8d8d8;
+    color: #d8d8d8;
+    margin: 22px 0 0 185px;
+}
+.center .inner>form>.mimakuang {
+    width: 334px;
+    height: 34px;
+    border: 1px solid #d8d8d8;
+    border-left: none;
+    margin-top: 22px;
+    padding-left: 7px;
+    color: #a0a0a0;
+    font-size: 12px;
+}
+.center .inner>form>.yanzhengma {
+    width: 206px;
+    height: 34px;
+    border: 1px solid #d8d8d8;
+    margin-top: 22px;
+    margin-left: 185px;
+    padding-left: 6px;
+    color: #a0a0a0;
+    font-size: 12px;
+}
+.center .inner>form>img {
+    margin-top: 27px;
+    margin-left: 8px;
+}
+.center .inner>form>input[type="submit"] {
+    width: 384px;
+    height: 44px;
+    background-color: #f26b11;
+    color: white;
+    margin: 32px 0 0 185px;
+}
+.center .inner>form>b {
+    display: block;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 34px;
+}
+.center .inner>form>b>a {
+    color: #fe6007;
+}
+
+/* 底部 */
+.dibu {
+    margin-top: 36px;
+    text-align: center;
+    padding-bottom: 41px;
+}
+.dibu>p {
+    font-size: 12px;
+    color: #6a6a6a;
+    line-height: 28px;
+}
+/* .dibu .chengdi {
+    margin-bottom: 41px;
+} */

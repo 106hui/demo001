@@ -1,0 +1,180 @@
+@charset "utf-8";
+.inner{
+    width: 1190px;
+    margin: 0 auto;
+}
+.header {
+    height: 108px;
+}
+.header>img {
+    margin-top: 35px;
+}
+.header>div {
+    width: 2px;
+    height: 50px;
+    background-color: #e8e8e8;
+    margin-top: 35px;
+    margin-left: 25px;
+}
+.header>span {
+    font-size: 22px;
+    color: #5e5e5e;
+    margin-top: 42px;
+    margin-left: 21px;
+}
+/* 内容 */
+.denglu {
+    height: 450px;
+    background-color: #ff6a6c;
+}
+.denglu .inner {
+    height: 450px;
+}
+.denglu .inner>img {
+    margin-left: 55px;
+}
+.denglu .inner form {
+    width: 350px;
+    height: 326px;
+    background-color: white;
+    border-top: 4px solid #f06b0e;
+    border-bottom: 1px solid #efefef;
+    margin-top: 38px;
+    margin-left: 76px;
+}
+.denglu .inner form>p {
+    margin-top: 27px;
+    margin-left: 35px;
+}
+.denglu .inner form .yonghuming {
+    width: 34px;
+    height: 34px;
+    border: 1px solid #f36d14;
+    margin-top: 25px;
+    margin-left: 35px;
+    line-height: 34px;
+    text-align: center;
+    color: #f36d14;
+}
+.denglu .inner .yonghukuang {
+    width: 231px;
+    height: 34px;
+    border: 1px solid #f36d14;
+    border-left: none;
+    margin-top: 25px;
+    padding-left: 11px;
+    color: #949494;
+    font-size: 14px;
+}
+.denglu .inner form .mima {
+    width: 34px;
+    height: 34px;
+    border: 1px solid #d8d8d8;
+    margin-top: 15px;
+    margin-left: 35px;
+    line-height: 34px;
+    text-align: center;
+    color: #d8d8d8;
+}
+.denglu .inner form .mimakuang {
+    width: 231px;
+    height: 34px;
+    border: 1px solid #d8d8d8;
+    border-left: none;
+    margin-top: 15px;
+    padding-left: 11px;
+    color: #949494;
+    font-size: 14px;
+}
+.denglu .inner form .yanzhengma {
+    width: 194px;
+    height: 34px;
+    border: 1px solid #d8d8d8;
+    margin-top: 14px;
+    margin-left: 35px;
+    padding-left: 12px;
+    font-size: 12px;
+    color: #949494;
+}
+.denglu .inner form>img {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.denglu .inner form>.denglu {
+    width: 286px;
+    height: 40px;
+    background-color: #f26b11;
+    color: white;
+    margin-top: 24px;
+    margin-left: 32px;
+    font-weight: 700;
+}
+.denglu .inner form>input[type=checkbox] {
+    margin-top: 80px;
+    margin-left: -285px;
+}
+.denglu .inner form>b {
+    font-size: 12px;
+    color: #5e5e5e;
+    margin: 14px 0 0 54px;
+}
+.denglu .inner form>a {
+    font-size: 12px;
+    color: #5e5e5e;
+    margin: 14px 25px 0 0;
+}
+.denglu .fangshi {
+    width: 350px;
+    height: 51px;
+    background-color: white;
+    margin-left: 77px;
+    line-height: 51px;
+}
+.denglu .fangshi .blue {
+    width: 5px;
+    height: 5px;
+    background-color: blue;
+    border-radius: 50%;
+    margin-top: 21px;
+    margin-left: 30px;
+}
+.denglu .fangshi .red {
+    width: 5px;
+    height: 5px;
+    background-color: red;
+    border-radius: 50%;
+    margin-top: 21px;
+    margin-left: 30px;
+}
+.denglu .fangshi .green {
+    width: 5px;
+    height: 5px;
+    background-color: green;
+    border-radius: 50%;
+    margin-top: 21px;
+    margin-left: 23px;
+}
+.denglu .fangshi>span {
+    margin-left: 5px;
+    font-size: 12px;
+    color: #6b6b6b;
+}
+.denglu .fangshi>a {
+    font-size: 14px;
+    color: #ed7016;
+    margin-right: 25px;
+}
+/* 底部 */
+.dibu {
+    width: 1190px;
+    margin: 0 auto;
+    margin-top: 36px;
+    /* margin-bottom: 32px; */
+    padding-bottom: 32px;
+    text-align: center;
+}
+.dibu>p {
+    font-size: 12px;
+    color: #6a6a6a;
+    line-height: 28px;
+}

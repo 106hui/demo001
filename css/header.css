@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+.top .image1{
+    float: left;
+    vertical-align: middle;
+    margin: 36px 164px 35px 0;
+}
+.top .search{
+    float: left;
+    margin-top: 30px;
+}
+.top .text{
+    width: 408px;
+    height: 36px;
+    border: 2px solid #f26b11;
+    font: 12px/36px "微软雅黑";
+    color: #b5afb3;
+    padding-left: 10px;
+}
+.top .btn{
+    width: 118px;
+    height: 40px;
+    background-color: #f26b11;
+    font: bold 18px/40px "微软雅黑";
+    color: white;
+}
+.top .seaBottom>li{
+    float: left;
+}
+.top .seaBottom li>a{
+    color: #959188;
+    font: 12px/29px "微软雅黑";
+}
+.seaBottom .line{
+    height: 10px;
+    color: #d4d4d4;
+    margin: 2px 10px 0 9px;
+}
+.top .seaBottom li .a{
+    color: #f44200;
+}
